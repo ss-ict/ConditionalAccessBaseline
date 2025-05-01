@@ -13,7 +13,8 @@
     "countriesAndRegions":  [
                                 "UK",
                                 "IE",
-                                "NL"
+                                "NL",
+                                "US"
                             ],
     "includeUnknownCountriesAndRegions":  false,
     "countryLookupMethod@odata.type":  "#microsoft.graph.countryLookupMethodType",
